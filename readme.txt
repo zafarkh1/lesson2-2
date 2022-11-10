@@ -10,4 +10,4 @@ git checkout master
 
 git checkout -b test
 
-
+git merge test
